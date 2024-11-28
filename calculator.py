@@ -1,4 +1,4 @@
-#in this calculator you can only add,sub,multiply or divide with onlr two num only
+#in this calculator you can only add,sub,multiply or divide with only two num only
 print("enter the operator")
 #operators are +,-,*,/
 operator=input()
